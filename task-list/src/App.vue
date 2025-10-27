@@ -14,6 +14,8 @@
 
 
 <script setup lang="ts">
+// needs "cd task-list"
+// then  "npm run dev"
 import TaskItem from "./components/TaskItem.vue";
 
 const tasks = [
